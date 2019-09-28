@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="filesearch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../chapter3/filesearch.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
